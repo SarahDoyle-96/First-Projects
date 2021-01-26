@@ -1,4 +1,4 @@
-# weightconvert.py
+# weight.py
 # A program to convert kiligrams to pounds
 # Written by Sarah Doyle
 
